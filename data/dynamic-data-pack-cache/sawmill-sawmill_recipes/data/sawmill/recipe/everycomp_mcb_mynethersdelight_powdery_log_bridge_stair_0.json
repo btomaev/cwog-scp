@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_block"
+  },
+  "result": {
+    "id": "everycomp:mcb/mynethersdelight/powdery_log_bridge_stair",
+    "count": 4
+  },
+  "type": "sawmill:woodcutting"
+}

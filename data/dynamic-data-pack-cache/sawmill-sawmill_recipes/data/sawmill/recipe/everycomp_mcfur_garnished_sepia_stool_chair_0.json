@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "garnished:sepia_stem"
+    },
+    {
+      "item": "garnished:sepia_hyphae"
+    },
+    {
+      "item": "garnished:stripped_sepia_stem"
+    },
+    {
+      "item": "garnished:stripped_sepia_hyphae"
+    }
+  ],
+  "result": {
+    "id": "everycomp:mcfur/garnished/sepia_stool_chair",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

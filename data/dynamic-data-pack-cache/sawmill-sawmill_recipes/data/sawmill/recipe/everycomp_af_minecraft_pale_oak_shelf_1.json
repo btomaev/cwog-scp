@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:pale_oak_planks"
+  },
+  "result": {
+    "id": "everycomp:af/minecraft/pale_oak_shelf",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

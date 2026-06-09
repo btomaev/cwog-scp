@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "expandeddelight:cinnamon_planks"
+  },
+  "result": {
+    "id": "everycomp:hc/expandeddelight/cinnamon_chair",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

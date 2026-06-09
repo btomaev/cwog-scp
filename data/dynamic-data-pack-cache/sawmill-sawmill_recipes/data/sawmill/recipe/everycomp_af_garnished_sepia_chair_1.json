@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "garnished:sepia_planks"
+  },
+  "result": {
+    "id": "everycomp:af/garnished/sepia_chair",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

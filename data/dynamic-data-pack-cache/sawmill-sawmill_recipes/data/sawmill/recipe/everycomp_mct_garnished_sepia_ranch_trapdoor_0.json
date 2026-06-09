@@ -1,0 +1,23 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "garnished:sepia_stem"
+    },
+    {
+      "item": "garnished:sepia_hyphae"
+    },
+    {
+      "item": "garnished:stripped_sepia_stem"
+    },
+    {
+      "item": "garnished:stripped_sepia_hyphae"
+    }
+  ],
+  "result": {
+    "id": "everycomp:mct/garnished/sepia_ranch_trapdoor",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

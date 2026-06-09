@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "createdieselgenerators:chip_wood_beam"
+  },
+  "result": {
+    "id": "everycomp:mcr/createdieselgenerators/chip_wood_top_roof",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

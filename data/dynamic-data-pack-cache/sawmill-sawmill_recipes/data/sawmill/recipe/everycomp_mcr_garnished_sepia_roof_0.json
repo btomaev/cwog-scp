@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "garnished:sepia_stem"
+    },
+    {
+      "item": "garnished:sepia_hyphae"
+    },
+    {
+      "item": "garnished:stripped_sepia_stem"
+    },
+    {
+      "item": "garnished:stripped_sepia_hyphae"
+    }
+  ],
+  "result": {
+    "id": "everycomp:mcr/garnished/sepia_roof",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

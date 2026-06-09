@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_planks"
+  },
+  "result": {
+    "id": "everycomp:mcp/mynethersdelight/powdery_planks_path",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

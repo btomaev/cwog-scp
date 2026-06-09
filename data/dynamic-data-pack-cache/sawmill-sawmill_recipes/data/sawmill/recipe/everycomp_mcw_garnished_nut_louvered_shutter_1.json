@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "garnished:nut_planks"
+  },
+  "result": {
+    "id": "everycomp:mcw/garnished/nut_louvered_shutter",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "garnished:sepia_planks"
+  },
+  "result": {
+    "id": "supplementaries:garnished/way_sign_sepia",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

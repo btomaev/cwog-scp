@@ -1,0 +1,12 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "createdieselgenerators:chip_wood_beam"
+  },
+  "result": {
+    "id": "everycomp:mcf/createdieselgenerators/chip_wood_highley_gate",
+    "count": 1
+  },
+  "ingredient_count": 2,
+  "type": "sawmill:woodcutting"
+}

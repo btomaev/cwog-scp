@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_planks"
+  },
+  "result": {
+    "id": "everycomp:hc/mynethersdelight/powdery_dining_bench",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

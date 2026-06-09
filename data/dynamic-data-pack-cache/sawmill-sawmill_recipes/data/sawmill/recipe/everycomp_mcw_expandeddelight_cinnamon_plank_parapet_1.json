@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "expandeddelight:cinnamon_planks"
+  },
+  "result": {
+    "id": "everycomp:mcw/expandeddelight/cinnamon_plank_parapet",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

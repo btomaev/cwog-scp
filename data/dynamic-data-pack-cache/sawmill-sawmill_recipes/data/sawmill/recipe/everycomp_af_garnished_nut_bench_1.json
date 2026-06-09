@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "garnished:nut_planks"
+  },
+  "result": {
+    "id": "everycomp:af/garnished/nut_bench",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

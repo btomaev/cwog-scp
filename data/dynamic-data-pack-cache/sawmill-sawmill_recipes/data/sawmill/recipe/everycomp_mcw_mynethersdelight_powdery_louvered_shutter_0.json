@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_block"
+  },
+  "result": {
+    "id": "everycomp:mcw/mynethersdelight/powdery_louvered_shutter",
+    "count": 8
+  },
+  "type": "sawmill:woodcutting"
+}

@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:acacia_planks"
+  },
+  "result": {
+    "id": "createcasing:acacia_shaft",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

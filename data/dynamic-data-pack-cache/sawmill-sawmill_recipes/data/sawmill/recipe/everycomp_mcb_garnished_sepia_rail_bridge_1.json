@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "garnished:sepia_planks"
+  },
+  "result": {
+    "id": "everycomp:mcb/garnished/sepia_rail_bridge",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

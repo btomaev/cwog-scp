@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "minecraft:pale_oak_planks"
+  },
+  "result": {
+    "id": "everycomp:mws/minecraft/pale_oak_platform",
+    "count": 2
+  },
+  "type": "sawmill:woodcutting"
+}

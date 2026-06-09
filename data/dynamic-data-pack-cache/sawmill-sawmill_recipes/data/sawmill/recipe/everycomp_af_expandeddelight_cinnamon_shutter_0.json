@@ -1,0 +1,22 @@
+{
+  "group": "logs",
+  "ingredient": [
+    {
+      "item": "expandeddelight:cinnamon_log"
+    },
+    {
+      "item": "expandeddelight:cinnamon_wood"
+    },
+    {
+      "item": "expandeddelight:stripped_cinnamon_log"
+    },
+    {
+      "item": "expandeddelight:stripped_cinnamon_wood"
+    }
+  ],
+  "result": {
+    "id": "everycomp:af/expandeddelight/cinnamon_shutter",
+    "count": 6
+  },
+  "type": "sawmill:woodcutting"
+}

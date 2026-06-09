@@ -1,0 +1,11 @@
+{
+  "group": "planks",
+  "ingredient": {
+    "item": "expandeddelight:cinnamon_planks"
+  },
+  "result": {
+    "id": "everycomp:mcb/expandeddelight/cinnamon_log_bridge_stair",
+    "count": 1
+  },
+  "type": "sawmill:woodcutting"
+}

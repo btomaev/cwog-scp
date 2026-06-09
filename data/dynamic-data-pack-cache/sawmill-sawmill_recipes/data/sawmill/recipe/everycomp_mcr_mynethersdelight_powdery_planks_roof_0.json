@@ -1,0 +1,11 @@
+{
+  "group": "logs",
+  "ingredient": {
+    "item": "mynethersdelight:powdery_block"
+  },
+  "result": {
+    "id": "everycomp:mcr/mynethersdelight/powdery_planks_roof",
+    "count": 3
+  },
+  "type": "sawmill:woodcutting"
+}
