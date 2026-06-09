@@ -12,7 +12,7 @@ services:
       USE_AIKAR_FLAGS: "true"
       GUI: "false"
       TZ: "Europe/Moscow"
-      JVM_OPTS: "-javaagent:/data/authlib-injector.jar=https://authserver.ely.by/api/authlib-injector"
+      JVM_OPTS: "-javaagent:/data/authlib-injector-1.2.7.jar=https://authserver.ely.by/api/authlib-injector"
     volumes:
       - ./data:/data
     restart: unless-stopped
