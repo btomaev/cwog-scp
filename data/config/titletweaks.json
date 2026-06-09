@@ -1,0 +1,10 @@
+{
+	"disableTitles": false,
+	"titleScale": 60.0,
+	"autoTitleScale": true,
+	"titlePositionOffset": 50,
+	"subtitlePositionOffset": 100,
+	"titleOpacity": 100.0,
+	"removeTextShadow": false,
+	"clearOnDisconnect": true
+}

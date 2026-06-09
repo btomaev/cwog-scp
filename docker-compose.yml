@@ -1,0 +1,21 @@
+services:
+  mc-server:
+    image: itzg/minecraft-server:java21
+    container_name: minecraft-cwog-scp
+    ports:
+      - "25565:25565"
+    environment:
+      EULA: "TRUE"
+      TYPE: "NEOFORGE"
+      VERSION: "1.21.1"
+      MEMORY: "8G"
+      USE_AIKAR_FLAGS: "true"
+      GUI: "false"
+      TZ: "Europe/Moscow"
+    volumes:
+      - ./data:/data
+    restart: unless-stopped
+    # deploy:
+    #   resources:
+    #     limits:
+    #       memory: 10G
