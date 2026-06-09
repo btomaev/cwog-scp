@@ -7,3 +7,5 @@ banned-ips.json
 banned-players.json
 ops.json
 authlib-injector.log
+dynamic-data-pack-cache/*
+.mixin.out/*
